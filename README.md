@@ -8,9 +8,7 @@ The **Heart Disease Analysis Dashboard** is an interactive Microsoft Excel proje
 
 ## 📊 Dashboard Preview
 
-> 📷 Add a screenshot of your dashboard here.
-
-![Dashboard Preview](Images/Heart%20Desise%20analysis%20Dasboard.png)
+![Dashboard Preview](<img width="735" height="687" alt="WhatsApp Image 2026-07-28 at 20 21 16" src="https://github.com/user-attachments/assets/0cbcddd9-b3b3-4cd2-9b07-49a00fb3e5c1" />)
 
 ---
 
